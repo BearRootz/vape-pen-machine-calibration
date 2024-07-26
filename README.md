@@ -14,7 +14,7 @@
 
 <h2>Installation</h2>
 <p>Clone the repository:</p>
-<pre><code>git clone https://github.com/your-username/vape-pen-machine-calibration.git
+<pre><code>git clone https://github.com/BearRootz/vape-pen-machine-calibration.git
 </code></pre>
 
 <p>Navigate to the project directory:</p>
